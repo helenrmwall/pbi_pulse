@@ -1,0 +1,9 @@
+ProductID,Category,Subcategory,ProductName,StandardCost,ListPrice
+P100,Bikes,Road,Roadster 100,500,800
+P200,Bikes,Road,Roadster 200,800,1200
+P300,Bikes,Mountain,Trailblazer 100,600,900
+P400,Bikes,Mountain,Trailblazer 200,900,1400
+P500,Accessories,Helmets,Aero Helmet,30,50
+P600,Accessories,Lights,Night Light,20,35
+P700,Apparel,Jerseys,Pro Jersey,25,60
+P800,Apparel,Shorts,Bib Shorts,30,80

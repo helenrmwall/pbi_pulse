@@ -1,0 +1,5 @@
+PromoCode,PromoName,StartDate,EndDate,Description,DiscountPct
+BIKE10,Bikes 10% Off,2023-05-01,2023-06-15,10% off all bikes,0.10
+ACC15,Accessories 15% Off,2023-11-01,2023-11-30,15% off accessories,0.15
+APP20,Apparel 20% Off,2024-06-01,2024-06-30,20% off apparel,0.20
+HOLI10,Holiday 10% Storewide,2024-11-15,2024-12-31,10% off storewide,0.10
